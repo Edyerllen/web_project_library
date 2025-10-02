@@ -359,13 +359,13 @@
   justify-content: space-between;
 }
 
-.footer__column_content_hours {
+.footer__columns_content_hours {
   align-items: center;
   margin-left: auto;
   margin-right: 80px;
 }
 
-.footer__column_content_social {
+.footer__columns_content_social {
   align-items: center;
   margin-right: 0;
 }
@@ -376,7 +376,7 @@
   margin-bottom: 100px;
 }
 
-.footer__column-heading {
+.footer__columns-heading {
   font-size: 16px;
   margin-bottom: 20px;
 }
@@ -391,7 +391,7 @@
   margin-bottom: 16px;
 }
 
-.footer__column-link {
+.footer__columns-link {
   color: white;
   text-decoration: none;
 }

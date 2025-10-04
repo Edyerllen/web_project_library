@@ -371,7 +371,7 @@
 
 .footer__column_content_social {
   text-align: center;
-  margin: 0;
+  margin-left: 0;
 }
 
 .footer__logo {
@@ -382,6 +382,7 @@
 .footer__column-heading {
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .footer__list {
@@ -395,7 +396,11 @@
 }
 
 .footer__column-link {
+  display: flex;
+  justify-content: center;
   align-items: center;
+  text-decoration: none;
+  column-gap: 10px;
   color: #ffffff;
 }
 
